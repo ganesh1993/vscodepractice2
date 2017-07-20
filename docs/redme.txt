@@ -1,0 +1,17 @@
+start vsCode
+open folder created projectname folder
+install extension-vsCode icon,gitHistory,gitignore
+npm init
+npm install
+
+
+:::::::::::::: INSTALL EXTENSION :::::::::::::::::
+>> gitignore
+>> gitHistory log
+>> vsCode
+>> vsCode greatIcon
+
+
+:::::::::::::: FOR 1st Time User :::::::::::::::::
+>> INSTALL  git and set the path
+>> 
